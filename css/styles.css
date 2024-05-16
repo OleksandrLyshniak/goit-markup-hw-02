@@ -70,7 +70,7 @@ a {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-    /* text-align: center; */
+    text-align: center;
 }
 
 /* .hidden-headings {
@@ -88,18 +88,18 @@ a {
 } */
 
         /* секція Головного заголовка */
-/* .title-box {
+.title-box {
     background-color: #2e2f42;
-    width: 1440px;
-    height: 600px;
-} */
+    /* width: 1440px;
+    height: 600px; */
+}
 
 .main-title {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    /* text-align: center; */
+    text-align: center;
     color: #fff;
 }
 
@@ -147,7 +147,7 @@ a {
 }
 
 .section-our-team {
-    color: #F4F4FD;
+    background-color: #F4F4FD;
 }
 
 .timets-name {
@@ -155,7 +155,7 @@ a {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    /* text-align: center; */
+    text-align: center;
     color: #2e2f42;
 }
 
@@ -163,7 +163,7 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    /* text-align: center; */
+    text-align: center;
 }
 
         /* секція Продукти */
