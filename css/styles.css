@@ -73,25 +73,10 @@ a {
     text-align: center;
 }
 
-/* .hidden-headings {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
-} */
-
         /* секція Головного заголовка */
 .title-box {
     background-color: #2e2f42;
-    /* width: 1440px;
-    height: 600px; */
+
 }
 
 .main-title {
@@ -109,14 +94,14 @@ a {
     letter-spacing: 0.04em;
     background-color: #4D5AE5;
     color: #FFFFFF;
-    /* border-radius: 4px;
-    padding: 16px 32px;
-    width: 169px;
-    height: 56px;
-    cursor: pointer; */
+    cursor: pointer;
 }
 
 .button:hover {
+    background-color: #404BBF;
+}
+
+.button:focus {
     background-color: #404BBF;
 }
 
@@ -139,10 +124,6 @@ a {
         /* секція Наша команда */
 
 .timets-box {
-    /* border-radius: 0 0 4px 4px;
-    padding: 0px 0px 32px 0px;
-    width: 264px;
-    height: 380px; */
     background-color: #fff;
 }
 
@@ -186,8 +167,6 @@ a {
 /*            Стилі футер             */
 
 .footer-box {
-    /* width: 1440px;
-    height: 312px; */
     background-color: #2e2f42;
 }
 
